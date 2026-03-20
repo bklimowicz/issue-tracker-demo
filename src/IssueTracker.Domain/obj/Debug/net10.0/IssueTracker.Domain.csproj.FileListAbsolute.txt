@@ -1,0 +1,12 @@
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\bin\Debug\net10.0\IssueTracker.Domain.deps.json
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\bin\Debug\net10.0\IssueTracker.Domain.dll
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\bin\Debug\net10.0\IssueTracker.Domain.pdb
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\obj\Debug\net10.0\IssueTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\obj\Debug\net10.0\IssueTracker.Domain.AssemblyInfoInputs.cache
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\obj\Debug\net10.0\IssueTracker.Domain.AssemblyInfo.cs
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\obj\Debug\net10.0\IssueTracker.Domain.csproj.CoreCompileInputs.cache
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\obj\Debug\net10.0\IssueTracker.Domain.sourcelink.json
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\obj\Debug\net10.0\IssueTracker.Domain.dll
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\obj\Debug\net10.0\refint\IssueTracker.Domain.dll
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\obj\Debug\net10.0\IssueTracker.Domain.pdb
+D:\Repositories\issue-tracker-demo\src\IssueTracker.Domain\obj\Debug\net10.0\ref\IssueTracker.Domain.dll
