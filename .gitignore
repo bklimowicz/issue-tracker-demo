@@ -1,0 +1,17 @@
+# .NET
+**/bin/
+**/obj/
+
+# Rider / JetBrains
+.idea/
+
+# VS / VS Code
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# User secrets
+secrets.json
